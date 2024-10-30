@@ -15,7 +15,7 @@ SPECIAL_PROMPT_TARGET="all"
 SPECIAL_PROMPT_TARGET_RANGE="all"
 
 API_TYPE="zhipu" # api_name
-API_MODEL='glm-4-flash' # choose the model 
+API_MODEL='glm-4-flash' # choose model 
 QWEN_API_KEY=""
 BAICHUAN_API_KEY=""
 ZHIPU_API_KEY=""  # your ZhipuAI API key here
