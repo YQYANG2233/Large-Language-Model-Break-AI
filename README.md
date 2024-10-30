@@ -1,6 +1,6 @@
 # ensemble-jailbreak
 
-This is the code of Team LlaXa for the Jailbreaking Attack Track of CLAS 2024. This folder includes the code for reproducing our jailbreak process and the data structure you needed.
+We are Team LlaXa from School of Cyber Science and Technology, Zhejiang University. This is our code for the Jailbreaking Attack Track of CLAS 2024. This folder includes the code for reproducing our jailbreak process and the data structure you needed.
 
 ### Install Dependencies
 Necessary packages with recommended versions are listed in `environment.yml`. You can create a conda environment with these packages for reproducing our code. 
