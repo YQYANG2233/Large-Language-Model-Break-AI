@@ -1,6 +1,6 @@
 # Large Language Model Break AI
 
-We are Team LlaXa from the School of Cyber Science and Technology at Zhejiang University. This repository contains the code for reproducing our submission to the Competition for LLM and Agent Safety 2024 (CLAS 2024).
+We are Team LlaXa from the School of Cyber Science and Technology at Zhejiang University. We actively respond to the call of the competition organizers by open-sourcing our solution. This repository contains the code for reproducing our submission to the Competition for LLM and Agent Safety 2024 ([CLAS 2024](https://www.llmagentsafetycomp24.com/)). 
 
 ### Install Dependencies
 Necessary packages with recommended versions are listed in `environment.yml`. You can create a conda environment with these packages for reproducing our code. 
