@@ -1,4 +1,4 @@
-# ensemble-jailbreak
+# Large Language Model Break AI
 
 We are Team LlaXa from the School of Cyber Science and Technology at Zhejiang University. This repository contains the code for reproducing our submission to the Competition for LLM and Agent Safety 2024 (CLAS 2024).
 
