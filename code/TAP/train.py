@@ -179,7 +179,7 @@ if __name__ == '__main__':
     judge_pipe = get_model_judge_pipeline(judge_model_id)
     tokenizer = AutoTokenizer.from_pretrained(inference_model_id) # gemma-2b-it
 
-    iter = 12 # default 6/12/18
+    iter = 18 # default 6/12/18
 
     for i in tqdm(range(len(prompts)), desc="Processing prompts"):
         prompt = prompts[i]
